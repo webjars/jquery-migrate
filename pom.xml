@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jquery-migrate</artifactId>
-    <version>1.4.0</version>
+    <version>1.4.1-SNAPSHOT</version>
     <name>jquery-migrate</name>
     <description>WebJar for jquery-migrate</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/jquery-migrate</url>
         <connection>scm:git:https://github.com/webjars/jquery-migrate.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jquery-migrate.git</developerConnection>
-        <tag>jquery-migrate-1.4.0</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
