@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jquery-migrate</artifactId>
-    <version>3.1.1-SNAPSHOT</version>
+    <version>3.3.2-SNAPSHOT</version>
     <name>jquery-migrate</name>
     <description>WebJar for jquery-migrate</description>
     <url>http://webjars.org</url>
